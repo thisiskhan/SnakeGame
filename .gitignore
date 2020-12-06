@@ -1,0 +1,9 @@
+# Macintosh
+**/.DS_Store
+
+# IDE
+.vscode/
+
+# Virtual environment
+venv/
+env/
