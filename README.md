@@ -1,5 +1,6 @@
 # SnakeGame
 The traditional snake game.
+![Snakegame](https://user-images.githubusercontent.com/72858063/101327474-bbae2700-3894-11eb-94a2-6487510bbee9.GIF)
 
 ## Execution
 - Install the dependencies from `requirements.txt`.
